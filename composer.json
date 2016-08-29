@@ -1,5 +1,5 @@
 {
-  "name": "data-dog/audit-bundle-cgarcia",
+  "name": "cgarcia/audit-bundle",
   "type": "symfony-bundle",
   "description": "Audit bundle for symfony2 and doctrine orm, logs any database change",
   "keywords": ["audit", "log", "symfony2", "bundle", "doctrine", "orm"],
